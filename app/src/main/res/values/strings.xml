@@ -2,4 +2,7 @@
     <string name="app_name">anifamily</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="social_login_info_naver_client_id">2rvp4dUT7gXZQrsrpwJa</string>
+    <string name="social_login_info_naver_client_secret">lajtI04ehF</string>
+    <string name="social_login_info_naver_client_name">AniFamily</string>
 </resources>

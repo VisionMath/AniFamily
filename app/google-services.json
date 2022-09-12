@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "665609058382",
+    "project_id": "anifamily-cf8e3",
+    "storage_bucket": "anifamily-cf8e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665609058382:android:edf17635bb3b4fdaf82b1f",
+        "android_client_info": {
+          "package_name": "com.busanit.anifamily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665609058382-fdtt14pm5og4cjmae8upd8fllmgjo11t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.busanit.anifamily",
+            "certificate_hash": "9e90281705d22b25c571359e9a4e135748e9dc5a"
+          }
+        },
+        {
+          "client_id": "665609058382-815fbel3qeftqhiqeoj37316nut8aea2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfJ8AZlBHelQS1VdBCBlotHrlbcB8msrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665609058382-815fbel3qeftqhiqeoj37316nut8aea2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

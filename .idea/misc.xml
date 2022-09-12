@@ -3,9 +3,30 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidProject/anifamily/app/src/main/res/layout/activity_auth.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/anifamily/app/src/main/res/layout/activity_center.xml" value="0.43948717948717947" />
+        <entry key="..\:/AndroidProject/anifamily/app/src/main/res/layout/activity_detail.xml" value="0.44635416666666666" />
+        <entry key="..\:/AndroidProject/anifamily/app/src/main/res/layout/activity_home_detail.xml" value="0.2857142857142857" />
+        <entry key="..\:/AndroidProject/anifamily/app/src/main/res/layout/activity_home_input.xml" value="0.24114583333333334" />
         <entry key="..\:/AndroidProject/anifamily/app/src/main/res/layout/activity_main.xml" value="0.44635416666666666" />
+        <entry key="..\:/AndroidProject/anifamily/app/src/main/res/layout/activity_pop_image.xml" value="0.44635416666666666" />
+        <entry key="..\:/AndroidProject/anifamily/app/src/main/res/layout/activity_protect_detail.xml" value="0.43948717948717947" />
+        <entry key="..\:/AndroidProject/anifamily/app/src/main/res/layout/activity_protect_input.xml" value="0.44635416666666666" />
+        <entry key="..\:/AndroidProject/anifamily/app/src/main/res/layout/border.xml" value="0.4317708333333333" />
+        <entry key="..\:/AndroidProject/anifamily/app/src/main/res/layout/fragment_home.xml" value="0.44635416666666666" />
+        <entry key="..\:/AndroidProject/anifamily/app/src/main/res/layout/fragment_protect.xml" value="0.44635416666666666" />
+        <entry key="..\:/AndroidProject/anifamily/app/src/main/res/layout/fragment_shelter.xml" value="0.44635416666666666" />
         <entry key="..\:/AndroidProject/anifamily/app/src/main/res/layout/fragment_story.xml" value="0.44635416666666666" />
+        <entry key="..\:/AndroidProject/anifamily/app/src/main/res/layout/home_item.xml" value="0.44635416666666666" />
+        <entry key="..\:/AndroidProject/anifamily/app/src/main/res/layout/item.xml" value="0.44635416666666666" />
         <entry key="..\:/AndroidProject/anifamily/app/src/main/res/layout/item_recyclerview.xml" value="0.44635416666666666" />
+        <entry key="..\:/AndroidProject/anifamily/app/src/main/res/layout/protect_item.xml" value="0.3828571428571429" />
+        <entry key="..\:/AndroidProject/anifamily/app/src/main/res/layout/query_dialogue.xml" value="0.3828571428571429" />
+        <entry key="..\:/AndroidProject/anifamily/app/src/main/res/layout/reply_recyclerview.xml" value="0.44635416666666666" />
+        <entry key="..\:/AndroidProject/anifamily/app/src/main/res/layout/shelter_item.xml" value="0.44635416666666666" />
+        <entry key="..\:/AndroidProject/anifamily/app/src/main/res/layout/spinner_list.xml" value="0.28541666666666665" />
+        <entry key="..\:/AndroidProject/anifamily/app/src/main/res/layout/styles.xml" value="0.44635416666666666" />
+        <entry key="..\:/AndroidProject/anifamily/app/src/main/res/menu/menu_main.xml" value="0.4453125" />
       </map>
     </option>
   </component>

@@ -1,18 +1,14 @@
 package com.busanit.anifamily.home
 
 import retrofit2.Call
-import retrofit2.http.Body
-import retrofit2.http.GET
-import retrofit2.http.POST
-import retrofit2.http.Path
+import retrofit2.http.*
 
 interface HomeNetworkService {
+
     @GET("home/list")
-    fun doGetUserList(): Call<UserList>
+    fun doGetHomeList(): Call<HomeList>
 
-    @GET("home/getUser/{id}")
-    fun doGetUser(@Path("id") id:Long):Call<UserModel>
-
-    @POST("home/insert")
-    fun insert(@Body user: UserModel):Call<String>
+    @GET("home/getHome")
+    fun doGetHome(@Query("id") id:Long): Call<HomeModel>
 }
+
